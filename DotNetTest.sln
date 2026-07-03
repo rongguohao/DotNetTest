@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.0.31903.59
+# Visual Studio Version 18
+VisualStudioVersion = 18.7.11911.148 stable
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "003-数据结构和算法", "003-数据结构和算法", "{E498B03A-F56B-4F61-AA74-D7FD1E1F59FA}"
 EndProject
@@ -320,6 +320,8 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ref引用类型", "005-CSharp基础\ref引用类型\ref引用类型.csproj", "{4A96191D-AD46-4211-A464-056114FAEB53}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeleteFileTest", "001-Test\DeleteFileTest\DeleteFileTest.csproj", "{DD6DABC3-DA06-4385-A437-F39F2448EA1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "发送邮件", "008-实用工具Demo\发送邮件\发送邮件.csproj", "{83607618-3C24-43F6-A4C7-99165DED36F4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -847,6 +849,10 @@ Global
 		{DD6DABC3-DA06-4385-A437-F39F2448EA1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD6DABC3-DA06-4385-A437-F39F2448EA1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD6DABC3-DA06-4385-A437-F39F2448EA1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83607618-3C24-43F6-A4C7-99165DED36F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83607618-3C24-43F6-A4C7-99165DED36F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83607618-3C24-43F6-A4C7-99165DED36F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83607618-3C24-43F6-A4C7-99165DED36F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -996,6 +1002,7 @@ Global
 		{87B1A14E-89D0-44B0-97D9-323348F18833} = {6D9C9930-FBFA-4555-8455-B868B662E572}
 		{4A96191D-AD46-4211-A464-056114FAEB53} = {500ED28C-835D-45AD-9DE8-845A4BEF498F}
 		{DD6DABC3-DA06-4385-A437-F39F2448EA1E} = {6D9C9930-FBFA-4555-8455-B868B662E572}
+		{83607618-3C24-43F6-A4C7-99165DED36F4} = {78E7FCD5-2ABA-4912-8876-E8888E1C7349}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6CC3D488-4F99-44F1-964B-19ADB12FC3B7}
